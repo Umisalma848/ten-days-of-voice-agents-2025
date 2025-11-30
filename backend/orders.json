@@ -1,0 +1,28 @@
+[
+  {
+    "id": "order-984df27b",
+    "items": [
+      {
+        "product_id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "unit_price": 1499,
+        "quantity": 2,
+        "line_total": 2998,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {}
+      }
+    ],
+    "total": 3297,
+    "currency": "INR",
+    "created_at": "2025-11-30T14:42:46.696297Z"
+  }
+]
